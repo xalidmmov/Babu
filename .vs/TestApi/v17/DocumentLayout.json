@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\service\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dtos\\language\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\language\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\service\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dtos\\language\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\language\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dtos\\language\\languagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\language\\languagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanguageUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Language\\LanguageUpdateDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Language\\LanguageUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Language\\LanguageUpdateDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Language\\LanguageUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:23:36.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BabuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DAL\\BabuDbContext.cs",
+              "RelativeDocumentMoniker": "TestApi\\DAL\\BabuDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DAL\\BabuDbContext.cs",
+              "RelativeToolTip": "TestApi\\DAL\\BabuDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:54:59.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LanguageGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Language\\LanguageGetDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Language\\LanguageGetDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Language\\LanguageGetDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Language\\LanguageGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:40:31.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LanguageCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Language\\LanguageCreateDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Language\\LanguageCreateDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Language\\LanguageCreateDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Language\\LanguageCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:37:59.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Implements\\LanguageService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Implements\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Implements\\LanguageService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Implements\\LanguageService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:34:59.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Abstracts\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Abstracts\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Abstracts\\ILanguageService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Abstracts\\ILanguageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:34:39.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\LanguagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:24:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Program.cs",
+              "RelativeToolTip": "TestApi\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:19:39.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "TestApi\\Entities\\Language.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Entities\\Language.cs",
+              "RelativeToolTip": "TestApi\\Entities\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:08:34.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
