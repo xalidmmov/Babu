@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Validators\Game\**" />
+    <Compile Remove="Validators\Word\**" />
+    <Content Remove="Validators\Game\**" />
+    <Content Remove="Validators\Word\**" />
+    <EmbeddedResource Remove="Validators\Game\**" />
+    <EmbeddedResource Remove="Validators\Word\**" />
+    <None Remove="Validators\Game\**" />
+    <None Remove="Validators\Word\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="FluentValidation" Version="11.11.0" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
@@ -23,8 +34,6 @@
     <Folder Include="DTOs\Game\" />
     <Folder Include="Exceptions\Game\" />
     <Folder Include="Exceptions\Word\" />
-    <Folder Include="Validators\Game\" />
-    <Folder Include="Validators\Word\" />
   </ItemGroup>
 
 </Project>

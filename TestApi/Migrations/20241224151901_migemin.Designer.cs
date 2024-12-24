@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TestApi.DAL;
 
@@ -11,9 +12,11 @@ using TestApi.DAL;
 namespace TestApi.Migrations
 {
     [DbContext(typeof(BabuDbContext))]
-    partial class BabuDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241224151901_migemin")]
+    partial class migemin
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

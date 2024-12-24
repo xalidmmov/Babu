@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using TestApi.DAL;
 using TestApi.DTOs.BannedWord;
 using TestApi.Entities;

@@ -1,6 +1,9 @@
-﻿namespace TestApi.Service.Abstracts
+﻿using TestApi.DTOs.Word;
+
+namespace TestApi.Service.Abstracts
 {
-    public class IWordService
+    public interface IWordService
     {
+        Task<int> CreateAsync(WordCreateDto dto);
     }
 }

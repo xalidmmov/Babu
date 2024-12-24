@@ -1,0 +1,573 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Migrations\\20241224151901_migemin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestApi\\Migrations\\20241224151901_migemin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\word\\worddeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\word\\worddeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\word\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\word\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\service\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\word\\wordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\word\\wordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\migrations\\20241219183925_createdlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\migrations\\20241219183925_createdlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\migrations\\20241219192239_seeddataforlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\migrations\\20241219192239_seeddataforlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\migrations\\babudbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\migrations\\babudbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\service\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\service\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\service\\abstracts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\abstracts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\validators\\bannedword\\bannedwordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\validators\\bannedword\\bannedwordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\validators\\bannedword\\bannedwordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\validators\\bannedword\\bannedwordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\bannedword\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\bannedword\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\word\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\word\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\profiles\\bannedwordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\profiles\\bannedwordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\exceptions\\bannedword\\bannedwordexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\exceptions\\bannedword\\bannedwordexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\bannedword\\bannedwordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\bannedword\\bannedwordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\bannedword\\bannedworddeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\bannedword\\bannedworddeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\bannedword\\bannedwordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\bannedword\\bannedwordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\appsettings.json",
+              "RelativeToolTip": "TestApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T15:21:57.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241224151901_migemin.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Migrations\\20241224151901_migemin.cs",
+              "RelativeDocumentMoniker": "TestApi\\Migrations\\20241224151901_migemin.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Migrations\\20241224151901_migemin.cs",
+              "RelativeToolTip": "TestApi\\Migrations\\20241224151901_migemin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:19:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\WordsController.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\WordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:18:27.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvyMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:17:37.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanguageExistException.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Exceptions\\Language\\LanguageExistException.cs",
+              "RelativeDocumentMoniker": "TestApi\\Exceptions\\Language\\LanguageExistException.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Exceptions\\Language\\LanguageExistException.cs",
+              "RelativeToolTip": "TestApi\\Exceptions\\Language\\LanguageExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:17:12.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "TestApi\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Game.cs",
+              "RelativeToolTip": "TestApi\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:15:19.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241219192239_SeedDataForLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Migrations\\20241219192239_SeedDataForLanguage.cs",
+              "RelativeDocumentMoniker": "TestApi\\Migrations\\20241219192239_SeedDataForLanguage.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Migrations\\20241219192239_SeedDataForLanguage.cs",
+              "RelativeToolTip": "TestApi\\Migrations\\20241219192239_SeedDataForLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:13:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241219183925_createdlanguage.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Migrations\\20241219183925_createdlanguage.cs",
+              "RelativeDocumentMoniker": "TestApi\\Migrations\\20241219183925_createdlanguage.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Migrations\\20241219183925_createdlanguage.cs",
+              "RelativeToolTip": "TestApi\\Migrations\\20241219183925_createdlanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:13:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BannedWordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Controllers\\BannedWordsController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\BannedWordsController.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Controllers\\BannedWordsController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\BannedWordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:17:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BabuDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TestApi\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TestApi\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:13:41.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Word.cs",
+              "RelativeDocumentMoniker": "TestApi\\Entities\\Word.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Word.cs",
+              "RelativeToolTip": "TestApi\\Entities\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:14:36.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordCreateDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Word\\WordCreateDto.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordCreateDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Word\\WordCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:14:32.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WordDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordDeleteDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Word\\WordDeleteDto.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordDeleteDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Word\\WordDeleteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:50:46.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordGetDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Word\\WordGetDto.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordGetDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Word\\WordGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:15:31.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Service\\Implements\\BannedWordService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Implements\\BannedWordService.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Service\\Implements\\BannedWordService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Implements\\BannedWordService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:28:27.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BannedWord.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\BannedWord.cs",
+              "RelativeDocumentMoniker": "TestApi\\Entities\\BannedWord.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\BannedWord.cs",
+              "RelativeToolTip": "TestApi\\Entities\\BannedWord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:14:00.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "TestApi\\Entities\\Language.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Language.cs",
+              "RelativeToolTip": "TestApi\\Entities\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:14:06.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BabuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DAL\\BabuDbContext.cs",
+              "RelativeDocumentMoniker": "TestApi\\DAL\\BabuDbContext.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DAL\\BabuDbContext.cs",
+              "RelativeToolTip": "TestApi\\DAL\\BabuDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:00:38.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Service\\Implements\\WordService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Implements\\WordService.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Service\\Implements\\WordService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Implements\\WordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:55:40.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Service\\Abstracts\\IWordService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Abstracts\\IWordService.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Service\\Abstracts\\IWordService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Abstracts\\IWordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:52:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WordCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "TestApi\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "RelativeToolTip": "TestApi\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:26:33.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BannedWordExistException.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Exceptions\\BannedWord\\BannedWordExistException.cs",
+              "RelativeDocumentMoniker": "TestApi\\Exceptions\\BannedWord\\BannedWordExistException.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Exceptions\\BannedWord\\BannedWordExistException.cs",
+              "RelativeToolTip": "TestApi\\Exceptions\\BannedWord\\BannedWordExistException.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:40:44.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BannedWordDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordDeleteDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\BannedWord\\BannedWordDeleteDto.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordDeleteDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\BannedWord\\BannedWordDeleteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:27:07.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Service\\Abstracts\\IBannedWordService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Abstracts\\IBannedWordService.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Service\\Abstracts\\IBannedWordService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Abstracts\\IBannedWordService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:22:22.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Exceptions\\IBaseException.cs",
+              "RelativeDocumentMoniker": "TestApi\\Exceptions\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Exceptions\\IBaseException.cs",
+              "RelativeToolTip": "TestApi\\Exceptions\\IBaseException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:53:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BannedWordupdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\BannedWord\\BannedWordupdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "TestApi\\Validators\\BannedWord\\BannedWordupdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\BannedWord\\BannedWordupdateDtoValidator.cs",
+              "RelativeToolTip": "TestApi\\Validators\\BannedWord\\BannedWordupdateDtoValidator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:55:38.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BannedWordCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\BannedWord\\BannedWordCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "TestApi\\Validators\\BannedWord\\BannedWordCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\BannedWord\\BannedWordCreateDtoValidator.cs",
+              "RelativeToolTip": "TestApi\\Validators\\BannedWord\\BannedWordCreateDtoValidator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:59:11.959Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WordUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordUpdateDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Word\\WordUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordUpdateDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Word\\WordUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:15:36.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BannedWordUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordUpdateDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\BannedWord\\BannedWordUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordUpdateDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\BannedWord\\BannedWordUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:14:20.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BannedWordGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordGetDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\BannedWord\\BannedWordGetDto.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordGetDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\BannedWord\\BannedWordGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:14:15.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BannedWordCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordCreateDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\BannedWord\\BannedWordCreateDto.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordCreateDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\BannedWord\\BannedWordCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:13:49.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BannedWordProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Profiles\\BannedWordProfile.cs",
+              "RelativeDocumentMoniker": "TestApi\\Profiles\\BannedWordProfile.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Profiles\\BannedWordProfile.cs",
+              "RelativeToolTip": "TestApi\\Profiles\\BannedWordProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:12:48.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LanguageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Profiles\\LanguageProfile.cs",
+              "RelativeDocumentMoniker": "TestApi\\Profiles\\LanguageProfile.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Profiles\\LanguageProfile.cs",
+              "RelativeToolTip": "TestApi\\Profiles\\LanguageProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:12:41.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -33,7 +33,7 @@ namespace TestApi.Controllers
                     return StatusCode(bEx.StatusCode, new
                     {
 
-                        Message = bEx.ErrrorMessage
+                        Message = bEx.ErrorMessage
                     });
                 }
                 else
