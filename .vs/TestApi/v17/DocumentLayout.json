@@ -1,54 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dtos\\game\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\game\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\service\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\service\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dtos\\word\\wordsforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\word\\wordsforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\service\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\service\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dtos\\game\\gameupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\game\\gameupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dtos\\game\\gamegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\game\\gamegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\validators\\bannedword\\bannedwordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\validators\\bannedword\\bannedwordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\validators\\bannedword\\bannedwordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\validators\\bannedword\\bannedwordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\bannedword\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\bannedword\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\word\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\word\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\profiles\\bannedwordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\profiles\\bannedwordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\bannedword\\bannedwordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\bannedword\\bannedwordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\second\\desktop\\taboo\\babu\\testapi\\dtos\\bannedword\\bannedwordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\bannedword\\bannedwordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\dtos\\game\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dtos\\game\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\validators\\games\\gamecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\validators\\games\\gamecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\service\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|c:\\users\\asus\\desktop\\mvc1\\testapi\\testapi\\service\\abstracts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD64C2A-C490-4F85-AB66-FFF2B2E5AD56}|TestApi\\TestApi.csproj|solutionrelative:testapi\\service\\abstracts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,159 +114,327 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LanguagesController.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Controllers\\LanguagesController.cs",
-              "RelativeDocumentMoniker": "TestApi\\Controllers\\LanguagesController.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Controllers\\LanguagesController.cs",
-              "RelativeToolTip": "TestApi\\Controllers\\LanguagesController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADgvyMAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "WordsForGameDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Word\\WordsForGameDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Word\\WordsForGameDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Word\\WordsForGameDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Word\\WordsForGameDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:17:37.786Z",
+              "WhenOpened": "2024-12-28T07:18:19.08Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Configurations\\GameConfiguration.cs",
+              "RelativeDocumentMoniker": "TestApi\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Configurations\\GameConfiguration.cs",
+              "RelativeToolTip": "TestApi\\Configurations\\GameConfiguration.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:45:08.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LanguageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Configurations\\LanguageConfiguration.cs",
+              "RelativeDocumentMoniker": "TestApi\\Configurations\\LanguageConfiguration.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Configurations\\LanguageConfiguration.cs",
+              "RelativeToolTip": "TestApi\\Configurations\\LanguageConfiguration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:42:33.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Abstracts\\IWordService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Abstracts\\IWordService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Abstracts\\IWordService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Abstracts\\IWordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:20:51.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Game\\GameUpdateDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Game\\GameUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Game\\GameUpdateDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Game\\GameUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:16:29.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Game\\GameGetDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Game\\GameGetDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Game\\GameGetDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Game\\GameGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:15:06.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Game\\GameStatusDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Game\\GameStatusDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Game\\GameStatusDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Game\\GameStatusDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:05:02.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LanguageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Profiles\\LanguageProfile.cs",
+              "RelativeDocumentMoniker": "TestApi\\Profiles\\LanguageProfile.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Profiles\\LanguageProfile.cs",
+              "RelativeToolTip": "TestApi\\Profiles\\LanguageProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:04:12.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WordProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Profiles\\WordProfile.cs",
+              "RelativeDocumentMoniker": "TestApi\\Profiles\\WordProfile.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Profiles\\WordProfile.cs",
+              "RelativeToolTip": "TestApi\\Profiles\\WordProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:04:10.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:49:25.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\LanguagesController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:49:19.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BannedWordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\BannedWordsController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\BannedWordsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\BannedWordsController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\BannedWordsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:14:03.401Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LanguageExistException.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Exceptions\\Language\\LanguageExistException.cs",
-              "RelativeDocumentMoniker": "TestApi\\Exceptions\\Language\\LanguageExistException.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Exceptions\\Language\\LanguageExistException.cs",
-              "RelativeToolTip": "TestApi\\Exceptions\\Language\\LanguageExistException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\GamesController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwB0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:17:12.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Game.cs",
-              "RelativeDocumentMoniker": "TestApi\\Entities\\Game.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Game.cs",
-              "RelativeToolTip": "TestApi\\Entities\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:15:19.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Word.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Word.cs",
-              "RelativeDocumentMoniker": "TestApi\\Entities\\Word.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Entities\\Word.cs",
-              "RelativeToolTip": "TestApi\\Entities\\Word.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T21:14:36.713Z",
+              "WhenOpened": "2024-12-25T07:07:35.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BannedWordupdateDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\BannedWord\\BannedWordupdateDtoValidator.cs",
-              "RelativeDocumentMoniker": "TestApi\\Validators\\BannedWord\\BannedWordupdateDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\BannedWord\\BannedWordupdateDtoValidator.cs",
-              "RelativeToolTip": "TestApi\\Validators\\BannedWord\\BannedWordupdateDtoValidator.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAA0AAAA",
+              "Title": "BabuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DAL\\BabuDbContext.cs",
+              "RelativeDocumentMoniker": "TestApi\\DAL\\BabuDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DAL\\BabuDbContext.cs",
+              "RelativeToolTip": "TestApi\\DAL\\BabuDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBEAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T21:55:38.189Z"
+              "WhenOpened": "2024-12-25T07:04:56.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BannedWordCreateDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\BannedWord\\BannedWordCreateDtoValidator.cs",
-              "RelativeDocumentMoniker": "TestApi\\Validators\\BannedWord\\BannedWordCreateDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Validators\\BannedWord\\BannedWordCreateDtoValidator.cs",
-              "RelativeToolTip": "TestApi\\Validators\\BannedWord\\BannedWordCreateDtoValidator.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAA0AAAA",
+              "DocumentIndex": 22,
+              "Title": "GameCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Game\\GameCreateDto.cs",
+              "RelativeDocumentMoniker": "TestApi\\DTOs\\Game\\GameCreateDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\DTOs\\Game\\GameCreateDto.cs",
+              "RelativeToolTip": "TestApi\\DTOs\\Game\\GameCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T21:59:11.959Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WordUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordUpdateDto.cs",
-              "RelativeDocumentMoniker": "TestApi\\DTOs\\Word\\WordUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\Word\\WordUpdateDto.cs",
-              "RelativeToolTip": "TestApi\\DTOs\\Word\\WordUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T21:15:36.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BannedWordUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordUpdateDto.cs",
-              "RelativeDocumentMoniker": "TestApi\\DTOs\\BannedWord\\BannedWordUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordUpdateDto.cs",
-              "RelativeToolTip": "TestApi\\DTOs\\BannedWord\\BannedWordUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T21:14:20.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BannedWordGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordGetDto.cs",
-              "RelativeDocumentMoniker": "TestApi\\DTOs\\BannedWord\\BannedWordGetDto.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordGetDto.cs",
-              "RelativeToolTip": "TestApi\\DTOs\\BannedWord\\BannedWordGetDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T21:14:15.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BannedWordCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordCreateDto.cs",
-              "RelativeDocumentMoniker": "TestApi\\DTOs\\BannedWord\\BannedWordCreateDto.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\DTOs\\BannedWord\\BannedWordCreateDto.cs",
-              "RelativeToolTip": "TestApi\\DTOs\\BannedWord\\BannedWordCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T21:13:49.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BannedWordProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Profiles\\BannedWordProfile.cs",
-              "RelativeDocumentMoniker": "TestApi\\Profiles\\BannedWordProfile.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Profiles\\BannedWordProfile.cs",
-              "RelativeToolTip": "TestApi\\Profiles\\BannedWordProfile.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T21:12:48.143Z"
+              "WhenOpened": "2024-12-25T06:58:59.051Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LanguageProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Profiles\\LanguageProfile.cs",
-              "RelativeDocumentMoniker": "TestApi\\Profiles\\LanguageProfile.cs",
-              "ToolTip": "C:\\Users\\Second\\Desktop\\Taboo\\Babu\\TestApi\\Profiles\\LanguageProfile.cs",
-              "RelativeToolTip": "TestApi\\Profiles\\LanguageProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Title": "GameProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Profiles\\GameProfile.cs",
+              "RelativeDocumentMoniker": "TestApi\\Profiles\\GameProfile.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Profiles\\GameProfile.cs",
+              "RelativeToolTip": "TestApi\\Profiles\\GameProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T21:12:41.402Z"
+              "WhenOpened": "2024-12-25T06:56:52.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "TestApi\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Entities\\Game.cs",
+              "RelativeToolTip": "TestApi\\Entities\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:55:36.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Validators\\Games\\GameCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "TestApi\\Validators\\Games\\GameCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Validators\\Games\\GameCreateDtoValidator.cs",
+              "RelativeToolTip": "TestApi\\Validators\\Games\\GameCreateDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:54:28.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Implements\\GameService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Implements\\GameService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Implements\\GameService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Implements\\GameService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:48:07.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Abstracts\\IGameService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Abstracts\\IGameService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Abstracts\\IGameService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Abstracts\\IGameService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:48:40.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Abstracts\\IBannedWordService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Abstracts\\IBannedWordService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Abstracts\\IBannedWordService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Abstracts\\IBannedWordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:43:59.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Implements\\BannedWordService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Implements\\BannedWordService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Implements\\BannedWordService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Implements\\BannedWordService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:43:21.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Program.cs",
+              "RelativeToolTip": "TestApi\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:39:50.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "TestApi\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\ServiceRegistration.cs",
+              "RelativeToolTip": "TestApi\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:23:41.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\WordsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\WordsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:15:40.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Implements\\WordService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Service\\Implements\\WordService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TestApi\\TestApi\\Service\\Implements\\WordService.cs",
+              "RelativeToolTip": "TestApi\\Service\\Implements\\WordService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:11:23.295Z"
             }
           ]
         }
